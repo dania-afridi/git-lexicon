@@ -1,1 +1,1 @@
-Hello ! This is my first git lexicon file.
+Hello ! This is my first git lexicon file.  I am adding some text so that update could be checked.
