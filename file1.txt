@@ -1,1 +1,2 @@
 Hello ! This is my first git lexicon file.  I am adding some text so that update could be checked.
+This line is added to revert.
